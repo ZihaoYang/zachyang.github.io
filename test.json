@@ -1,0 +1,71 @@
+{
+  "aggregator": "Meta Reviews",
+  "store": {
+    "name": "Facebook Reality Labs",
+    "id": "4d34ferw3sedfs",
+    "storeUrls": ["https://portal.facebook.com/", "www.oculus.com"]
+  },
+  "reviews":[
+    {
+      "reviewID": "876324222345",
+      "rating": 5,
+      "title": "Amazing Experience!",
+      "content": "The kids love it. So realistic and I can't wait for more games. Beat Saber is our favorite so far. Definitely worth the price.",
+      "createdAt": "2020-11-03T10:04:37.000Z",
+      "updatedAt": "2020-11-03T10:04:37.000Z",
+      "reviewImageUrls": ["https://www.facebook.com/img1.png", "www.facebook.com/img2.png"],
+      "incentivized": false,
+      "hasVerifiedPurchase": true,
+      "reviewer": {
+        "name": "John D.",
+        "reviewerID": "1233413412421",
+        "isAnonymous": false
+      },
+      "product": {
+        "name": "Quest 2",
+        "groupID": "43251",
+        "url": "https://www.oculus.com/quest-2-128gb/",
+        "imageUrls": ["www.facebook.com/img1.png","www.facebook.com/img2.png"],
+        "productIdentifiers": {
+          "gtins": ["20884389103321", "48384389103228"],
+          "mpn": "AQP10012OZ",
+          "skus": ["AD-0221-48"],
+          "brand": "Oculus",
+          "shopifyProductID": "2345234235423"
+        },
+        "variants": [{
+          "name": "Quest 2 - 256 GB",
+          "url": "https://www.oculus.com/quest-2-256gb/",
+          "variantIdentifiers": {
+            "brand": "Oculus",
+            "gtins": ["30884389103328"],
+            "mpn":"AQP10012OZ1",
+            "shopifyProductID":"2345234235424",
+            "skus": ["AD-0221-49"]
+
+          },
+          "productStatus": "active"
+        }]
+      },
+      "language": "en",
+      "country": "US",
+      "merchantResponse": {
+        "name": "Sephora",
+        "id": 123456789,
+        "content": "Thanks for your review!",
+        "createdAt": "2020-11-03T10:05:37.000Z",
+        "updatedAt": "2020-11-03T10:05:37.000Z",
+        "language": "en",
+        "country": "US"
+      },
+      "secondaryAttributes": {
+        "size": "true to size"
+      },
+      "secondaryRatings": {
+        "quality": 5,
+        "shipping speed": 3,
+        "value for price": 1
+      }
+    }
+  ]
+}
